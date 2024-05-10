@@ -1,1 +1,3 @@
-# learning_deep_neural_network
+# Purpose of this repo
+
+This is a repo of miscellanious projects that are more unfinished more often than not. It consists of one off files, exploratory project that did not get enought dedicated time, fun stuff ect ect ect ...
